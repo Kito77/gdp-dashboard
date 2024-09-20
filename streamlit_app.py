@@ -7,4 +7,4 @@ st.title("Hallöchen")
 
 st.write('*Data Science Course 2024*')
 
-st
+url = "https://github.com/Kito77/streamlit-test/blob/main/Bastar%20Craton.csv"
