@@ -3,4 +3,8 @@ import pandas as pd
 import math
 from pathlib import Path
 
-st.write
+st.title("Hallöchen")
+
+st.write('*Data Science Course 2024*')
+
+st
