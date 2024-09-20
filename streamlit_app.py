@@ -3,3 +3,4 @@ import pandas as pd
 import math
 from pathlib import Path
 
+st.write
